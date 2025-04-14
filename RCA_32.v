@@ -1,5 +1,5 @@
 
-module RCA_32_3(output [31:0] sum, output cout, input [31:0] a, b);
+module RCA_32(output [31:0] sum, output cout, input [31:0] a, b);
 
   wire [31:0] c;
   assign c[0]=0;
