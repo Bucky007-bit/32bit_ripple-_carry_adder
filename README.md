@@ -25,4 +25,4 @@ The RCA is built using 32 full adder units connected in series. Each full adder 
 
 ## License
 
-This project is licensed under the [MIT License](license). Feel free to use and modify it.
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it.
