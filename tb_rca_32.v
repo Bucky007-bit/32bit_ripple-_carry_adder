@@ -1,4 +1,4 @@
-module RCA_32_3TB;
+module RCA_32TB;
   wire [31:0] sum;
   wire cout;
   reg [31:0]a, b;
