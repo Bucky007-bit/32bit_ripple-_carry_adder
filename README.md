@@ -9,7 +9,7 @@ The RCA is built using 32 full adder units connected in series. Each full adder 
 ## Files
 
 - [rca_32](rca_32.v) - 32-bit RCA using 32 full adders
-- [rca_testbench](tc_rca_32.v) - Testbench to simulate and verify the RCA
+- [rca_testbench](tb_rca_32.v) - Testbench to simulate and verify the RCA
 - [rca_waveform](rca_waveform.png) - Resulting waveform from simulation
 
 ## Tools Used
